@@ -1,0 +1,304 @@
+Sex,ChestPain,ExerciseAngina,MaxHeartRate,HeartDisease
+Male,Typical angina,No,Medium,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Non-anginal pain,No,High,No
+Female,Atypical angina,No,High,No
+Male,Atypical angina,No,High,No
+Female,Asymptomatic,No,High,Yes
+Female,Asymptomatic,Yes,High,No
+Male,Asymptomatic,No,Medium,Yes
+Male,Asymptomatic,Yes,Medium,Yes
+Male,Asymptomatic,No,Medium,No
+Female,Atypical angina,No,Medium,No
+Male,Non-anginal pain,Yes,Medium,Yes
+Male,Atypical angina,No,High,No
+Male,Non-anginal pain,No,High,No
+Male,Non-anginal pain,No,High,No
+Male,Atypical angina,No,High,Yes
+Male,Asymptomatic,No,High,No
+Female,Non-anginal pain,No,Low,No
+Male,Atypical angina,No,High,No
+Male,Typical angina,Yes,Medium,No
+Female,Typical angina,No,High,No
+Male,Atypical angina,No,High,Yes
+Male,Non-anginal pain,No,High,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Female,Non-anginal pain,No,Medium,No
+Female,Non-anginal pain,No,High,No
+Female,Typical angina,No,Low,No
+Male,Asymptomatic,No,High,No
+Male,Asymptomatic,Yes,Low,Yes
+Female,Typical angina,No,Medium,No
+Male,Asymptomatic,Yes,High,Yes
+Male,Non-anginal pain,No,Medium,Yes
+Male,Asymptomatic,No,High,No
+Male,Non-anginal pain,Yes,High,No
+Male,Asymptomatic,No,High,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Non-anginal pain,Yes,Low,No
+Female,Asymptomatic,No,Low,Yes
+Male,Typical angina,Yes,High,No
+Female,Atypical angina,No,High,No
+Male,Non-anginal pain,No,Medium,No
+Female,Asymptomatic,No,High,Yes
+Male,Non-anginal pain,No,High,Yes
+Male,Non-anginal pain,No,Low,No
+Male,Asymptomatic,No,Low,Yes
+Female,Non-anginal pain,No,Medium,No
+Male,Non-anginal pain,No,Medium,No
+Female,Atypical angina,No,High,No
+Male,Asymptomatic,No,Medium,No
+Male,Asymptomatic,No,Medium,Yes
+Male,Atypical angina,No,High,No
+Male,Asymptomatic,Yes,Medium,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Non-anginal pain,No,High,Yes
+Male,Asymptomatic,No,Medium,Yes
+Male,Non-anginal pain,No,Medium,No
+Male,Typical angina,Yes,Low,No
+Female,Asymptomatic,Yes,Medium,Yes
+Female,Non-anginal pain,Yes,High,No
+Male,Asymptomatic,Yes,Low,Yes
+Female,Non-anginal pain,No,High,No
+Male,Asymptomatic,No,Low,Yes
+Male,Asymptomatic,Yes,Medium,Yes
+Male,Non-anginal pain,No,Medium,Yes
+Male,Non-anginal pain,No,High,No
+Male,Asymptomatic,Yes,Medium,Yes
+Male,Non-anginal pain,No,Medium,Yes
+Female,Non-anginal pain,No,Medium,No
+Male,Asymptomatic,No,High,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,No,Medium,Yes
+Male,Asymptomatic,No,High,Yes
+Female,Non-anginal pain,No,Medium,No
+Male,Asymptomatic,Yes,Medium,Yes
+Female,Non-anginal pain,No,Medium,No
+Male,Atypical angina,No,High,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,Yes,Medium,No
+Female,Asymptomatic,No,Medium,No
+Male,Non-anginal pain,No,High,No
+Male,Non-anginal pain,Yes,Medium,Yes
+Male,Atypical angina,No,High,No
+Male,Non-anginal pain,No,High,No
+Male,Non-anginal pain,No,Medium,No
+Female,Non-anginal pain,No,Low,No
+Female,Asymptomatic,No,High,No
+Female,Non-anginal pain,No,Medium,No
+Male,Asymptomatic,No,Medium,No
+Female,Asymptomatic,No,Medium,Yes
+Male,Non-anginal pain,No,Medium,No
+Female,Non-anginal pain,No,High,No
+Female,Non-anginal pain,No,High,No
+Male,Asymptomatic,Yes,High,Yes
+Male,Asymptomatic,Yes,Medium,Yes
+Female,Asymptomatic,No,Medium,Yes
+Male,Atypical angina,No,Medium,No
+Male,Asymptomatic,No,High,No
+Male,Asymptomatic,No,High,No
+Male,Typical angina,No,High,No
+Female,Asymptomatic,No,Medium,No
+Female,Non-anginal pain,No,Low,No
+Male,Non-anginal pain,No,Low,Yes
+Male,Atypical angina,No,Medium,No
+Male,Asymptomatic,Yes,High,Yes
+Male,Non-anginal pain,No,Medium,Yes
+Male,Asymptomatic,Yes,Medium,Yes
+Male,Asymptomatic,No,Medium,Yes
+Female,Asymptomatic,Yes,Medium,Yes
+Male,Asymptomatic,Yes,Medium,Yes
+Male,Typical angina,No,High,No
+Female,Asymptomatic,Yes,Low,Yes
+Female,Non-anginal pain,No,Low,Yes
+Male,Atypical angina,No,Low,No
+Male,Non-anginal pain,No,High,No
+Female,Asymptomatic,No,High,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,No,Low,Yes
+Male,Asymptomatic,Yes,Medium,Yes
+Female,Asymptomatic,No,Medium,Yes
+Male,Non-anginal pain,Yes,Medium,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Typical angina,No,High,Yes
+Female,Atypical angina,No,High,No
+Female,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Atypical angina,No,High,No
+Female,Asymptomatic,No,High,No
+Male,Non-anginal pain,No,Medium,No
+Male,Non-anginal pain,Yes,Medium,No
+Male,Atypical angina,No,High,No
+Male,Asymptomatic,Yes,High,No
+Female,Non-anginal pain,No,High,No
+Female,Atypical angina,No,High,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Atypical angina,No,Low,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Non-anginal pain,No,High,No
+Male,Atypical angina,Yes,High,No
+Male,Typical angina,No,Medium,Yes
+Male,Atypical angina,No,High,No
+Male,Non-anginal pain,Yes,Low,Yes
+Male,Non-anginal pain,Yes,Medium,No
+Male,Non-anginal pain,No,Medium,Yes
+Male,Asymptomatic,No,Low,Yes
+Male,Non-anginal pain,No,High,No
+Male,Atypical angina,No,High,No
+Female,Non-anginal pain,No,High,No
+Male,Typical angina,No,High,No
+Female,Asymptomatic,No,Low,No
+Female,Non-anginal pain,No,High,No
+Male,Asymptomatic,Yes,Medium,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,No,Low,Yes
+Male,Asymptomatic,Yes,High,Yes
+Male,Asymptomatic,No,High,Yes
+Male,Asymptomatic,No,High,Yes
+Male,Non-anginal pain,No,Medium,No
+Male,Atypical angina,No,Medium,No
+Male,Asymptomatic,Yes,High,Yes
+Female,Non-anginal pain,No,Medium,No
+Female,Asymptomatic,No,Low,No
+Male,Non-anginal pain,No,High,No
+Male,Asymptomatic,Yes,High,No
+Male,Non-anginal pain,No,High,No
+Female,Atypical angina,Yes,Medium,No
+Male,Asymptomatic,Yes,Medium,Yes
+Female,Atypical angina,No,Low,No
+Male,Non-anginal pain,Yes,Low,Yes
+Male,Asymptomatic,Yes,Low,No
+Female,Asymptomatic,Yes,Medium,Yes
+Female,Asymptomatic,No,Medium,No
+Male,Asymptomatic,No,Low,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,No,Medium,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Non-anginal pain,No,High,No
+Male,Non-anginal pain,No,High,No
+Male,Asymptomatic,No,High,Yes
+Female,Asymptomatic,Yes,Medium,Yes
+Male,Typical angina,No,High,No
+Male,Typical angina,No,Medium,No
+Female,Asymptomatic,No,High,Yes
+Female,Atypical angina,No,High,No
+Male,Non-anginal pain,No,High,No
+Male,Atypical angina,Yes,Low,Yes
+Male,Atypical angina,No,High,Yes
+Male,Non-anginal pain,No,Medium,Yes
+Male,Non-anginal pain,No,High,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,Yes,Medium,Yes
+Female,Asymptomatic,No,Low,Yes
+Female,Non-anginal pain,No,Low,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Typical angina,No,Low,No
+Female,Asymptomatic,Yes,Medium,No
+Female,Atypical angina,No,High,No
+Male,Typical angina,No,Low,Yes
+Female,Asymptomatic,No,Medium,No
+Female,Asymptomatic,Yes,Medium,No
+Male,Non-anginal pain,No,High,No
+Female,Non-anginal pain,No,Low,No
+Male,Asymptomatic,No,High,No
+Male,Asymptomatic,Yes,Medium,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Atypical angina,No,Medium,No
+Female,Asymptomatic,Yes,Medium,Yes
+Female,Non-anginal pain,No,High,No
+Male,Typical angina,Yes,High,Yes
+Male,Non-anginal pain,No,High,No
+Female,Asymptomatic,Yes,High,Yes
+Male,Asymptomatic,No,High,Yes
+Male,Typical angina,No,High,No
+Female,Atypical angina,No,High,No
+Female,Asymptomatic,Yes,Medium,No
+Female,Asymptomatic,No,Low,No
+Male,Asymptomatic,No,High,No
+Female,Non-anginal pain,Yes,High,No
+Female,Non-anginal pain,No,High,No
+Female,Non-anginal pain,No,High,No
+Male,Asymptomatic,Yes,Low,Yes
+Female,Asymptomatic,Yes,High,Yes
+Female,Atypical angina,No,High,No
+Male,Asymptomatic,No,Medium,No
+Female,Non-anginal pain,No,High,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Female,Non-anginal pain,No,High,No
+Female,Asymptomatic,Yes,Low,Yes
+Male,Non-anginal pain,No,Low,Yes
+Female,Atypical angina,Yes,Low,No
+Female,Non-anginal pain,No,High,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,No,Medium,Yes
+Female,Atypical angina,No,High,No
+Male,Atypical angina,No,High,No
+Male,Atypical angina,No,Medium,No
+Female,Atypical angina,No,High,No
+Female,Asymptomatic,No,High,No
+Male,Typical angina,No,Medium,Yes
+Female,Non-anginal pain,No,Low,No
+Male,Asymptomatic,No,Low,Yes
+Male,Asymptomatic,No,Medium,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,No,High,Yes
+Male,Atypical angina,No,Medium,No
+Male,Asymptomatic,Yes,Low,No
+Male,Asymptomatic,No,Low,Yes
+Male,Asymptomatic,Yes,Low,No
+Female,Non-anginal pain,No,Medium,No
+Male,Asymptomatic,No,High,No
+Female,Non-anginal pain,No,High,No
+Female,Asymptomatic,No,Medium,No
+Female,Non-anginal pain,No,Low,No
+Male,Atypical angina,No,Medium,No
+Male,Atypical angina,No,Medium,Yes
+Female,Non-anginal pain,No,Medium,No
+Female,Atypical angina,No,Medium,Yes
+Female,Typical angina,No,High,No
+Male,Non-anginal pain,No,High,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,Yes,Medium,Yes
+Male,Non-anginal pain,No,Low,Yes
+Male,Asymptomatic,No,High,Yes
+Male,Non-anginal pain,No,Medium,No
+Male,Asymptomatic,Yes,Low,Yes
+Male,Asymptomatic,No,Low,No
+Male,Asymptomatic,Yes,Low,Yes
+Female,Asymptomatic,No,Low,No
+Male,Typical angina,No,High,Yes
+Male,Typical angina,No,Medium,No
+Female,Non-anginal pain,No,Medium,No
+Female,Non-anginal pain,No,Medium,No
+Male,Atypical angina,No,High,Yes
+Female,Asymptomatic,No,Low,No
+Male,Asymptomatic,Yes,Medium,Yes
+Male,Non-anginal pain,No,High,No
+Female,Asymptomatic,Yes,Low,Yes
+Male,Atypical angina,No,High,No
+Male,Asymptomatic,No,High,Yes
+Male,Asymptomatic,No,Medium,Yes
+Female,Asymptomatic,Yes,Medium,Yes
+Male,Atypical angina,No,Medium,No
+Male,Atypical angina,No,High,No
+Male,Atypical angina,No,High,No
+Male,Non-anginal pain,No,Medium,Yes
+Female,Atypical angina,No,High,No
+Male,Asymptomatic,Yes,Medium,Yes
+Male,Asymptomatic,Yes,Medium,Yes
+Female,Asymptomatic,Yes,Low,Yes
+Male,Atypical angina,No,High,No
+Male,Asymptomatic,No,Low,Yes
+Female,Asymptomatic,Yes,Low,Yes
+Male,Typical angina,No,Low,Yes
+Male,Asymptomatic,No,Medium,Yes
+Male,Asymptomatic,Yes,Low,Yes
+Female,Atypical angina,No,High,Yes
+Male,Non-anginal pain,No,High,No
